@@ -7,3 +7,4 @@ My first repository
 - Hulk
 - Ant man
 - Avenger End Game
+- Loki
